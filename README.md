@@ -11,16 +11,16 @@
 
 ```javascript
 const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
+  pronouns: "male" | "he",
+  code: [Javascript, Typescript, HTML, CSS, C++, Python,PHP],
+  tools: [React, Node],
+
+   techCommunities: {
+                        coorganizer: "Malang Hacker Link", "Indosec"
+
+
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on Javascript ES8, react.js and Node.js"
 }
 ```
 
@@ -28,6 +28,4 @@ const thai = {
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
-[![Linkedin Badge](https://img.shields.io/badge/-sofyan hadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sofyan-hadi-7b80871b1)](https://www.linkedin.com/in/sofyan-hadi-7b80871b1) [![Medium Badge](https://img.shields.io/badge/-@achmadsofyan-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@achmadsofyansec/)](https://medium.com/achmadsofyansec)
-[![Gmail Badge](https://img.shields.io/badge/-achmadsofyansec@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:achmadsofyansec@gmail.com)](mailto:achmadsofyansec@gmail.com)
+⭐️ From [@achmadsofyansec](https://github.com/achmadsofyansec)
