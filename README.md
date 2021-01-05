@@ -1,3 +1,10 @@
+<h2>Achmad Sofyan Hadi ☺💻</h2>
+
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/achmadsofyan/)](https://twitter.com/achmadsofyan/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achmadsofyanhadi/)](https://www.linkedin.com/in/achmadsofyanhadi/)
+[![Instagram](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/achmadsofyan_h)](www.instagram.com/achmadsofyan_h)
+[![Gmail](https://img.shields.io/badge/-Gmail-222222?style=flat-square&logo=gmail&logoColor=white&link=https://www.gmail.com)](https://gmail.com)
+
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
@@ -23,8 +30,11 @@ const anmol = {
 };
 ```
 
-⭐️ From [@achmadsofyansec](https://github.com/achmadsofyansec)
-Programming Language Agnostic , Tech Enthusiast and Fullstack Web Developer.
+## Current activity
+
+- 💻 I'm currently developing <a href="https://github.com/achmadsofyansec">Fatimah</a> and some freelance projects.
+- 📖 I’m currently learning python nd javascript;
+- 💡 My interests are with front-end & backend then i decide to do fullstack;
 
 ## Github Performance Overall
 
@@ -34,12 +44,5 @@ Programming Language Agnostic , Tech Enthusiast and Fullstack Web Developer.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmadsofyansec&theme=vue">
 
-## Current activity
-
-- 💻 I'm currently developing <a href="https://github.com/achmadsofyansec">Fatimah</a> and some freelance projects.
-- 📖 I’m currently learning python nd javascript;
-- 🤔 My interests are with front-end & backend then i decide to do fullstack;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email me to reach me.
-- 📝 See my <a href="https://www.linkedin.com/in/achmadsofyansec/">linked.in</a> to get more info.
+⭐️ From [@achmadsofyansec](https://github.com/achmadsofyansec)
+Programming Language Agnostic , Tech Enthusiast and Backend Developer.
