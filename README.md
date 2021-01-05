@@ -1,5 +1,4 @@
-```
-javascript
+```javascript
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java", "php"],
