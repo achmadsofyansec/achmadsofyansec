@@ -1,4 +1,4 @@
-<h2>Achmad Sofyan Hadi ☺💻</h2>
+<h2>Achmad Sofyan Hadi  😎💻</h2>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/achmadsofyan/)](https://twitter.com/achmadsofyan/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achmadsofyanhadi/)](https://www.linkedin.com/in/achmadsofyanhadi/)
