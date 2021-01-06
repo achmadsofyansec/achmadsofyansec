@@ -14,7 +14,7 @@ const achmadsofyan = {
         mobileApp: ["Android App"],
         frontEnd: {
             js: ["Vue", "React"],
-            css: ["materialize", "bootstrap"]
+            css: ["materialize", "bootstrap", "Talwind]
         },
         backEnd: {
             js: ["node"],
