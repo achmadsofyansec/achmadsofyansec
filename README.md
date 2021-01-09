@@ -1,9 +1,20 @@
-<h2>Achmad Sofyan Hadi  😎💻</h2>
+## **Hi There, I'm Achmad Sofyan Hadi!**
 
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/achmadsofyan/)](https://twitter.com/achmadsofyan/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achmadsofyanhadi/)](https://www.linkedin.com/in/achmadsofyanhadi/)
-[![Instagram](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/achmadsofyan_h)](www.instagram.com/achmadsofyan_h)
-[![Gmail](https://img.shields.io/badge/-Gmail-222222?style=flat-square&logo=gmail&logoColor=white&link=https://www.gmail.com)](https://gmail.com)
+
+
+<a href="https://www.facebook.com/sofyanhadi"><img src="https://img.shields.io/badge/AchmadSofyan Hadi-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/achmadsofyan_h/"><img src="https://img.shields.io/badge/@achmadsofyan_h%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/sofyanhadi"><img src="https://img.shields.io/badge/@sofyanhadi%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sofyanhadi"><img src="https://img.shields.io/badge/sofyanhadi%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+
+<img align="right" height="200" width="400" alt="IMG" src="https://github.com/achmadsofyansec/achmadsofyansec/blob/master/undraw_programmer_imem.png">
+
+![age](https://img.shields.io/badge/Age-17-blue)
+![focus](https://img.shields.io/badge/Focus-FullStack-blue)
+
+
+
 
 ```javascript
 const achmadsofyan = {
