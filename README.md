@@ -16,8 +16,8 @@
 
 ## Current activity
 
-- 💻 I'm currently developing <a href="https://github.com/achmadsofyansec">Fatimah</a> and some freelance projects.
-- 📖 I’m currently learning python nd javascript;
+- 💻 I'm currently developing clinic and some freelance projects.
+- 📖 I’m currently learning python, PHP and javascript;
 - 💡 My interests are with front-end & backend then i decide to do fullstack;
 
 ## Github Performance Overall
