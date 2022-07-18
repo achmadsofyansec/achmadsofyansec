@@ -1,12 +1,12 @@
-## **Hi There, I'm Achmad Sofyan Hadi!**   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## **Hi There, I'm Achmad Sofyan Hadi!** 
 
 
 
 
 <a href="https://www.facebook.com/sofyanhadi"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/achmadsofyan_h/"><img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/rich.sof/"><img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/sofyanhadi"><img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sofyanhadi"><img src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/achmadsofyanhadi"><img src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
 <img align="right" height="200" width="400" alt="IMG" src="https://github.com/achmadsofyansec/achmadsofyansec/blob/master/undraw_programmer_imem.png">
@@ -16,8 +16,8 @@
 
 ## Current activity
 
-- 💻 I'm currently developing clinic and some freelance projects.
-- 📖 I’m currently learning python, PHP and javascript;
+- 💻 I'm currently developing asis and some freelance projects.
+- 📖 I’m currently learning Python, PHP and javascript;
 - 💡 My interests are with front-end & backend then i decide to do fullstack;
 
 ## Github Performance Overall
