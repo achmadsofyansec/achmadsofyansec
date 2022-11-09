@@ -1,4 +1,4 @@
-## **Hi There, I'm Achmad Sofyan Hadi!** 
+# Hello, I'm Achmad Sofyan Hadi 👋
 
 
 
@@ -9,26 +9,27 @@
 <a href="https://www.linkedin.com/in/achmadsofyanhadi"><img src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
-<img align="right" height="200" width="400" alt="IMG" src="https://github.com/achmadsofyansec/achmadsofyansec/blob/master/undraw_programmer_imem.png">
 
-![age](https://img.shields.io/badge/Age-18-blue)
+
+![age](https://img.shields.io/badge/Age-19-blue)
 ![focus](https://img.shields.io/badge/Focus-FullStack-blue)
 
-## Current activity
 
-- 💻 I'm currently developing asis and some freelance projects.
-- 📖 I’m currently learning Python, PHP and javascript;
-- 💡 My interests are with front-end & backend then i decide to do fullstack;
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![PHP](https://img.shields.io/badge/PHP-Intermediate-lightblue)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediate-purple)
+![Tailwind](https://img.shields.io/badge/Tailwind-Beginner-cyan)
+![React](https://img.shields.io/badge/React-Beginner-blue)
+![Laravel](https://img.shields.io/badge/Laravel-Intermediate-red)
 
-## Github Performance Overall
+Junior Web Designer & Web Developer located in Indonesia
 
+- 🔭 I’m currently studying **Software Engineering** at SMKN 8 MALANG
+- 🌱 I’m currently learning **WordPress**, **Laravel** and **React**
+- ⚙️ Mastering: `.html`,`.css`,`.js`,`.php`
+- 👯 I’m looking to collaborate on **Open Source** projects
+- 💬 I'm mostly active within the **Facebook**, **Instagram**, **Youtube** communities
 
-
-![github stats](https://github-readme-stats.vercel.app/api?username=achmadsofyansec&show_icons=true&theme=radical)
-
-## My Github Most Used Language
-
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=achmadsofyansec&layout=compact&theme=radical)
 
 ⭐️ From [@achmadsofyansec](https://github.com/achmadsofyansec)
 Programming Language Agnostic , Tech Enthusiast and Backend Developer.
